@@ -1,0 +1,3 @@
+#!/bin/bash
+rm ../mqotd.zip
+zip -r -FS ../mqotd.zip * --exclude *.git* --exclude package

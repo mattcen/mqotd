@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+}
+
+.content-container {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 700px;
+  height: 100px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+#content {
+  font-size: 24px;
+}
+
+blockquote{
+  font-size: 1.4em;
+  margin: 0.25em 0;
+  padding: 0.25em 40px;
+  line-height: 1.2;
+  position: relative;
+  color: #404040;
+}
+
+blockquote:before {
+  display: block;
+  content: "\201C";
+  font-size: 86px;
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  color: #777777;
+}
+
+blockquote cite {
+  color: #AAAAAA;
+  font-size: 1em;
+  display: block;
+  margin-top: 4px;
+}
