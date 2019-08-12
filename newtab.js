@@ -546,40 +546,44 @@ function showQuote() {
       'author': 'Margaret Atwood'
     },
     {
-      'text': 'I would have girls regard themselves not as adjectives but as nouns. ',
+      'text': 'I would have girls regard themselves not as adjectives but as nouns.,
       'author': 'Elizabeth Cady Stanton'
     },
     {
-      'text': 'Independence is happiness. ',
+      'text': 'Independence is happiness.,
       'author': 'Susan B. Anthony'
     },
     {
-      'text': 'I think the degree of a nation’s civilization may be measured by the degree of enlightenment of its women. ',
+      'text': 'I think the degree of a nation’s civilization may be measured by the degree of enlightenment of its women.,
       'author': 'Helen Keller'
     },
     {
-      'text': 'The way to right wrongs is to turn the light of truth upon them. ',
+      'text': 'The way to right wrongs is to turn the light of truth upon them.,
       'author': 'Ida B. Wells.'
     },
     {
-      'text': 'We want rights. The flour-merchant, the house-builder, and the postman charge us no less on account of our sex; but when we endeavor to earn money to pay all these, then, indeed, we find the difference. ',
+      'text': 'We want rights. The flour-merchant, the house-builder, and the postman charge us no less on account of our sex; but when we endeavor to earn money to pay all these, then, indeed, we find the difference.,
       'author': 'Lucy Stone'
     },
     {
-      'text': 'Social advance depends as much upon the process through which it is secured as upon the result itself. ',
+      'text': 'Social advance depends as much upon the process through which it is secured as upon the result itself.,
       'author': 'Jane Addams'
     },
     {
-      'text': 'I do not believe that women are better than men. We have not wrecked railroads, nor corrupted legislature, nor done many unholy things that men have done; but then we must remember that we have not had the chance. ',
+      'text': 'I do not believe that women are better than men. We have not wrecked railroads, nor corrupted legislature, nor done many unholy things that men have done; but then we must remember that we have not had the chance.,
       'author': 'Jane Addams.'
     },
     {
-      'text': 'A gentleman opposed to their enfranchisement once said to me, ‘Women have never produced anything of any value to the world.’ I told him the chief product of the women had been the men, and left it to him to decide whether the product was of any value. ',
+      'text': 'A gentleman opposed to their enfranchisement once said to me, ‘Women have never produced anything of any value to the world.’ I told him the chief product of the women had been the men, and left it to him to decide whether the product was of any value.,
       'author': 'Anna Howard Shaw'
     },
     {
-      'text': 'The world has never yet seen a truly great and virtuous nation, because in the degradation of women, the very fountains of life are poisoned at their source. ',
+      'text': 'The world has never yet seen a truly great and virtuous nation, because in the degradation of women, the very fountains of life are poisoned at their source.',
       'author': 'Elizabeth Cady Stanton'
+    },
+    {
+      'text': 'Life shrinks or expands in proportion to one\'s courage.'
+      'author': 'Anaïs Nin'
     }
   ];
 
